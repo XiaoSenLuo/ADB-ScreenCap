@@ -5,7 +5,7 @@
 
 [ADB 下载](https://dl.google.com/android/repository/platform-tools-latest-windows.zip)
 
-下载完成, 将其解压, 并将文件夹复制到与 ADB-ScreenCap.exe 同级目录下
+下载完成, 将其解压得到platform-tools, 将platform-tools复制到与 ADB-ScreenCap.exe 同级目录下
 
 ![](1.png)
 
